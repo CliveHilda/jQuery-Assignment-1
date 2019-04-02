@@ -1,0 +1,37 @@
+body{
+  font-family: 'Source Sans Pro', sans-serif;
+  background-color: beige;
+}
+
+.container{
+  display: grid;
+  align-content: center;
+}
+
+#showAll{
+  width: 50%;
+  height: 50px;
+  font-size: 20px;
+  margin: auto;
+  background-color: green;
+  color: white;
+}
+
+#hideAll{
+  width: 50%;
+  height: 50px;
+  font-size: 20px;
+  margin: auto;
+  background-color: red;
+  color: white;
+}
+
+h1, .step{
+  text-align: center;
+}
+
+.pic{
+  height: 300px;
+  width: auto;
+  border-radius: 30px;
+}
